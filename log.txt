@@ -1,0 +1,6 @@
+
+Maple log [February 7th 2016, 9:04:26 pm] [file --> sample.mss] [message --> Starting Maple Logger....]
+Maple log [February 7th 2016, 9:04:26 pm] [file --> sample.mss] [message --> Reading file --> sample.mss]
+Maple log [February 7th 2016, 9:04:26 pm] [file --> sample.mss] [message --> OK sample.mss is a valid mss file]
+Maple log [February 7th 2016, 9:04:26 pm] [file --> sample.mss] [message --> data stream displayed.]
+Maple log [February 7th 2016, 9:04:26 pm] [file --> sample.mss] [message --> Compiler halted!]
