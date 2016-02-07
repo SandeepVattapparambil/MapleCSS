@@ -1,2 +1,3 @@
-<img src="logo.png"><h2 style="color:#cddc39;">MapleCSS</h2>
-MapleCSS Preprocessor
+<img src="logo.png"><h2>MapleCSS</h2>
+<p>MapleCSS Preprocessor</p>
+<p>The new object oriented way of CSS preprocessing.</p>
